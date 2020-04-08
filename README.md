@@ -19,7 +19,7 @@
 |  11054   | http://boj.kr/11054 |     O     |
 |   1912   | http://boj.kr/1912  |     O     |
 |   2579   | http://boj.kr/2579  |     O     |
-|   1699   | http://boj.kr/1699  |     X     |
+|   1699   | http://boj.kr/1699  |     O     |
 |   2133   | http://boj.kr/2133  |     X     |
 |   9461   | http://boj.kr/9461  |     X     |
 |   2225   | http://boj.kr/2225  |     X     |
