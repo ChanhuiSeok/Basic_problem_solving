@@ -22,7 +22,7 @@
 |   1699   | http://boj.kr/1699  |     O     |
 |   2133   | http://boj.kr/2133  |     O     |
 |   9461   | http://boj.kr/9461  |     O     |
-|   2225   | http://boj.kr/2225  |     X     |
+|   2225   | http://boj.kr/2225  |          |
 |   2011   | http://boj.kr/2011  |     X     |
 |  11052   | http://boj.kr/11052 |     X     |
 
