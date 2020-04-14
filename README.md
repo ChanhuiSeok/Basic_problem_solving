@@ -24,7 +24,7 @@
 |   9461   | http://boj.kr/9461  |     O     |
 |   2225   | http://boj.kr/2225  |     O     |
 |   2011   | http://boj.kr/2011  |     X     |
-|  11052   | http://boj.kr/11052 |     X     |
+|  11052   | http://boj.kr/11052 |     O     |
 
 ### [2] etc (41문제)
 
