@@ -70,7 +70,7 @@
 |  11653   | http://boj.kr/11653 |     X     |
 |  10872   | http://boj.kr/10872 |     X     |
 |   1676   | http://boj.kr/1676  |     X     |
-|   2004   | http://boj.kr/2004  |     X     |
+|   2004   | http://boj.kr/2004  |     O     |
 
 ### [3] 그래프 문제 및 DFS, BFS (15문제)
 
