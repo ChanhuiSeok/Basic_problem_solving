@@ -40,7 +40,7 @@
 |  11004   | http://boj.kr/11004 |     O     |
 |  10828   | http://boj.kr/10828 |     O     |
 |   9012   | http://boj.kr/9012  |     O     |
-|  10799   | http://boj.kr/10799 |          |
+|  10799   | http://boj.kr/10799 |     O     |
 |  10845   | http://boj.kr/10845 |     X     |
 |  10866   | http://boj.kr/10866 |     X     |
 |  10808   | http://boj.kr/10808 |     X     |
