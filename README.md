@@ -46,9 +46,9 @@
 |  10808   | http://boj.kr/10808 |     O     |
 |  10809   | http://boj.kr/10809 |     O     |
 |  10820   | http://boj.kr/10820 |     O     |
-|   2743   | http://boj.kr/2743  |     X     |
-|  11655   | http://boj.kr/11655 |     X     |
-|  10824   | http://boj.kr/10824 |     X     |
+|   2743   | http://boj.kr/2743  |     O     |
+|  11655   | http://boj.kr/11655 |     O     |
+|  10824   | http://boj.kr/10824 |     O     |
 |  11656   | http://boj.kr/11656 |     X     |
 |   1406   | http://boj.kr/1406  |     X     |
 |   1158   | http://boj.kr/1158  |     X     |
