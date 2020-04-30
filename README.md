@@ -57,7 +57,7 @@
 |   2609   | http://boj.kr/2609  |     O     |
 |   1934   | http://boj.kr/1934  |     O     |
 |   1850   | http://boj.kr/1850  |     O     |
-|   9613   | http://boj.kr/9613  |     X     |
+|   9613   | http://boj.kr/9613  |     O     |
 |  11005   | http://boj.kr/11005 |     X     |
 |   2745   | http://boj.kr/2745  |     X     |
 |   1373   | http://boj.kr/1373  |     X     |
