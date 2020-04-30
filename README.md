@@ -52,7 +52,7 @@
 |  11656   | http://boj.kr/11656 |     O     |
 |   1406   | http://boj.kr/1406  |     O     |
 |   1158   | http://boj.kr/1158  |     O     |
-|   1168   | http://boj.kr/1168  |     X     |
+|   1168   | http://boj.kr/1168  |     O     |
 |  10430   | http://boj.kr/10430 |     X     |
 |   2609   | http://boj.kr/2609  |     X     |
 |   1934   | http://boj.kr/1934  |     X     |
