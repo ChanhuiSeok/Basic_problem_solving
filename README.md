@@ -60,7 +60,7 @@
 |   9613   | http://boj.kr/9613  |     O     |
 |  11005   | http://boj.kr/11005 |     O     |
 |   2745   | http://boj.kr/2745  |     O     |
-|   1373   | http://boj.kr/1373  |     X     |
+|   1373   | http://boj.kr/1373  |     O     |
 |   1212   | http://boj.kr/1212  |     X     |
 |   2089   | http://boj.kr/2089  |     X     |
 |  11576   | http://boj.kr/11576 |     X     |
