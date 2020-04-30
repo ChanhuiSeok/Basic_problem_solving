@@ -61,7 +61,7 @@
 |  11005   | http://boj.kr/11005 |     O     |
 |   2745   | http://boj.kr/2745  |     O     |
 |   1373   | http://boj.kr/1373  |     O     |
-|   1212   | http://boj.kr/1212  |     X     |
+|   1212   | http://boj.kr/1212  |     O     |
 |   2089   | http://boj.kr/2089  |     X     |
 |  11576   | http://boj.kr/11576 |     X     |
 |   1978   | http://boj.kr/1978  |     X     |
