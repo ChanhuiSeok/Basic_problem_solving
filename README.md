@@ -36,7 +36,7 @@
 |  10814   | http://boj.kr/10814 |     O     |
 |  10825   | http://boj.kr/10825 |     O     |
 |  10989   | http://boj.kr/10989 |     O     |
-|  11652   | http://boj.kr/11652 |     X     |
+|  11652   | http://boj.kr/11652 |     O     |
 |  11004   | http://boj.kr/11004 |     X     |
 |  10828   | http://boj.kr/10828 |     X     |
 |   9012   | http://boj.kr/9012  |     X     |
