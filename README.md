@@ -67,7 +67,7 @@
 |   1978   | http://boj.kr/1978  |     X     |
 |   1929   | http://boj.kr/1929  |     X     |
 |   6588   | http://boj.kr/6588  |     X     |
-|  11653   | http://boj.kr/11653 |     X     |
+|  11653   | http://boj.kr/11653 |     O     |
 |  10872   | http://boj.kr/10872 |     X     |
 |   1676   | http://boj.kr/1676  |     X     |
 |   2004   | http://boj.kr/2004  |     O     |
