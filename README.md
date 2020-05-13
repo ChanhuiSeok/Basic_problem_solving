@@ -81,7 +81,7 @@
 |   1707   | http://boj.kr/1707  |     X     |
 |  10451   | http://boj.kr/10451 |     O     |
 |   2331   | http://boj.kr/2331  |     O     |
-|   9466   | http://boj.kr/9466  |          |
+|   9466   | http://boj.kr/9466  |     O     |
 |   2667   | http://boj.kr/2667  |     O     |
 |   4963   | http://boj.kr/4963  |     O     |
 |   7576   | http://boj.kr/7576  |     X     |
