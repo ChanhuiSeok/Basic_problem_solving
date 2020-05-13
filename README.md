@@ -85,7 +85,7 @@
 |   2667   | http://boj.kr/2667  |     O     |
 |   4963   | http://boj.kr/4963  |     O     |
 |   7576   | http://boj.kr/7576  |     X     |
-|   2178   | http://boj.kr/2178  |          |
+|   2178   | http://boj.kr/2178  |     O     |
 |   2146   | http://boj.kr/2146  |     X     |
 |   1991   | http://boj.kr/1991  |     X     |
 |  11725   | http://boj.kr/11725 |     X     |
