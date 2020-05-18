@@ -99,7 +99,7 @@
 |   1654   | http://boj.kr/1654  |     O     |
 |   2805   | http://boj.kr/2805  |     O     |
 |   2110   | http://boj.kr/2110  |     O     |
-|  10815   | http://boj.kr/10815 |     X     |
+|  10815   | http://boj.kr/10815 |     O     |
 |  10816   | http://boj.kr/10816 |     X     |
 |  11662   | http://boj.kr/11662 |     X     |
 
