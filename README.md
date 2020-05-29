@@ -111,7 +111,7 @@
 |   1780    | http://boj.kr/1780  |     O     |
 |   11729   | http://boj.kr/11729 |     X     |
 |   1992    | http://boj.kr/1992  |     O     |
-|   2447    | http://boj.kr/2447  |     X     |
+|   2447    | http://boj.kr/2447  |     O     |
 |   2448    | http://boj.kr/2448  |     X     |
 |   1517    | http://boj.kr/1517  |     X     |
 |   2261    | http://boj.kr/2261  |     X     |
